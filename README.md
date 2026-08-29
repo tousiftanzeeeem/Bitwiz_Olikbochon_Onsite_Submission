@@ -44,81 +44,60 @@ We were awarded **Most Novel Approach** for the creativity and effectiveness of 
 
 ---
 
-## 📁 Repository Structure
 
-```text
-Bitwiz_Olikbochon_Onsite_Submission/
-├── Bitwiz_inference_notebook.ipynb   # Main inference notebook (Kaggle-ready)
-├── Bitwiz_presentation.pdf           # Onsite presentation slides
-├── Bitwiz_report.pdf                 # Detailed technical report
-└── README.md
+## 👥 Team Bitwiz
 
-👥 Team Bitwiz
+| Member                    | GitHub                                     
+|---------------------------|---------------------------------------------
+| **Tanzim Tousif**         | [tousiftanzeeeem](https://github.com/tousiftanzeeeem) 
+| **Mohammed Afham Adian**  | [AfhamAdian](https://github.com/AfhamAdian)         
+| **Suprio Paul**           | [Suprio85](https://github.com/Suprio85)             
+| **Sijon Chisty Saon**     | [Saon110](https://github.com/Saon110)               
 
+All members are undergraduate students from the **Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET)**.
 
+---
 
+## 🛠️ Tech Stack
 
+- **LLM**: Qwen3-5-35B-A3B (GPTQ INT4)
+- **Embeddings**: BGE-M3
+- **Reranker**: BAAI BGE Reranker v2-M3
+- **Vector Store**: FAISS
+- **Inference**: vLLM (offline wheels)
+- **Language**: Python + Jupyter
+- **Environment**: Fully offline Kaggle-compatible pipeline
 
+---
 
+## 🚀 How to Run
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-MemberGitHubRoleTanzim TousiftousiftanzeeeemTeam Lead & System DesignMohammed Afham AdianAfhamAdianRAG Pipeline & IndexingSuprio PaulSuprio85Classifier & InfrastructureSijon Chisty SaonSaon110Model Integration & Evaluation
-All members are undergraduate students from the Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology (BUET).
-
-🛠️ Tech Stack
-
-LLM: Qwen3-5-35B-A3B (GPTQ INT4)
-Embeddings: BGE-M3
-Reranker: BAAI BGE Reranker v2-M3
-Vector Store: FAISS
-Inference: vLLM (offline wheels)
-Language: Python + Jupyter
-Environment: Fully offline Kaggle-compatible pipeline
-
-
-🚀 How to Run
-
-Open Bitwiz_inference_notebook.ipynb on Kaggle (or locally with the required datasets attached).
-Update only the path variables in the first cell if needed.
-Run all cells sequentially.
+1. Open `Bitwiz_inference_notebook.ipynb` on Kaggle (or locally with the required datasets attached).
+2. Update only the path variables in the first cell if needed.
+3. Run all cells sequentially.
 
 The notebook is designed to be self-contained and competition-ready.
 
-📜 Documents
+---
 
-📄 Technical Report [blocked] — Full methodology, experiments, and analysis
-📊 Presentation Slides [blocked] — Onsite defense presentation
+## 📜 Documents
 
+- 📄 **[Technical Report](Bitwiz_report.pdf)** — Full methodology, experiments, and analysis  
+- 📊 **[Presentation Slides](Bitwiz_presentation.pdf)** — Onsite defense presentation  
 
-🏅 Acknowledgement
-We are deeply grateful to the organizers of IUT 12th ICT Fest and Brain Lab (EBLICT Project) for creating such a meaningful and challenging problem around Bengali LLM reliability.
+---
+
+## 🏅 Acknowledgement
+
+We are deeply grateful to the organizers of **IUT 12th ICT Fest** and **Brain Lab (EBLICT Project)** for creating such a meaningful and challenging problem around **Bengali LLM reliability**.
+
 Special thanks to the judges for recognizing the novelty of our category-aware, hybrid deterministic + retrieval approach.
 
+---
 
-Built with ❤️ by Team Bitwiz
+<div align="center">
 
-BUET CSE
+**Built with ❤️ by Team Bitwiz**  
+*BUET CSE*
 
-```
+</div>
