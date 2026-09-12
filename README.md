@@ -11,7 +11,7 @@
 ![Award](https://img.shields.io/badge/Award-Most%20Novel%20Approach-gold?style=for-the-badge)
 ![Event](https://img.shields.io/badge/Event-IUT%2012th%20ICT%20Fest-blue?style=for-the-badge)
 ![Theme](https://img.shields.io/badge/Theme-অলীকবচন-purple?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Bengali%20%2B%20English-green?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Bengali-green?style=for-the-badge)
 
 </div>
 
